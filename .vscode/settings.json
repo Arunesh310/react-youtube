@@ -1,0 +1,11 @@
+{
+  "editor.cursorBlinking": "phase",
+  "editor.cursorStyle": "line",
+  "editor.suggest.localityBonus": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.preferredHighContrastColorTheme": "Default Dark Modern",
+  "workbench.preferredHighContrastLightColorTheme": "Default Dark Modern",
+  "workbench.preferredLightColorTheme": "Default Dark Modern",
+  "workbench.iconTheme": "vs-minimal"
+}
